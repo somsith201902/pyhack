@@ -36,6 +36,6 @@ options = get_arguments()
 change_mac(options.interface, options.new_MAC)
 # a = get_mac(options.interface)
 # print("mac =",a)
-
+#tests
 
 
